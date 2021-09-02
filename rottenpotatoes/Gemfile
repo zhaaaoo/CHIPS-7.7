@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.6.6'
+ruby '2.6.4'
 gem 'rails', '4.2.11'
 
 # for Heroku deployment - as described in Ap. A of ELLS book
